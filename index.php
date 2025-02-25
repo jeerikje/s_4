@@ -24,6 +24,9 @@
         echo "$name má $age rokov. <br>";
     }
 
+    // komentaaaar
+    
+
     ?>
 
 </body>
